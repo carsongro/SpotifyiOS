@@ -7,6 +7,7 @@ Full featured Spotify like app written in Swift 5 with MVVM architecture.
 ## Features
 - Official Spotify API and iOS SDK Use
 - Playlists, Playlist Creation
+- Bottom Drawer player with infinite swiping to scroll and pagination
 - Browse & Recommended
 - Search Songs, Albums, Artists, More
 - Full Song Playback with Playlists and Albums Playback
