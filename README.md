@@ -19,6 +19,6 @@
 
 The base of this project is formed from the iOS Academy YouTube Series for building Spotify: https://youtube.com/playlist?list=PL5PR3UyfTWve9ZC7Yws0x6EGjBO2FGr0o
 
-I have added many features and integreated with the Spotify iOS SDK to play full tracks and authenticate, bottom draw player with infinite scolling, pagination in playlists and the bottom drawer player, etc.
+I have added many features and integreated with the Spotify iOS SDK to play full tracks and authenticate, added bottom draw player with infinite scolling,  pagination in playlists, and more.
 
 This repository does not contain a client secret or api key, these credentials can obtained from the Spotify Developer website.
